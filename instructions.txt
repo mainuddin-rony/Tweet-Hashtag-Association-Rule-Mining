@@ -1,0 +1,7 @@
+Required python version is 2.7.
+Python environment must have following packages:
+pandas
+lxml==3.5.0
+pyquery==1.2.10
+
+To run the code execute the Main.py script

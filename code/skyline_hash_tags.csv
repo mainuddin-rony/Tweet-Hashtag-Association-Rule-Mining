@@ -1,0 +1,168 @@
+,conf,conv,interest,length,rule,rule_no,supp,is_sky
+25,0.7360148898769517,1.0839882650691604,3.64060129434023,2,[u'#recipes']==>[u'#food'],26,0.027711593864361908,yes
+50,1.0,0.9800513898621818,50.1288056206089,3,"[u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",51,0.019948610137818262,yes
+52,1.0,0.9800513898621818,50.1288056206089,3,"[u'#bananabread', u'#contest']==>[u'#sunbeltbakery']",53,0.019948610137818262,yes
+64,1.0,0.9800513898621818,50.1288056206089,3,"[u'#sunbeltbakery']==>[u'#contest', u'#granola']",65,0.019948610137818262,yes
+68,1.0,0.9800513898621818,50.1288056206089,3,"[u'#contest', u'#granola']==>[u'#sunbeltbakery']",69,0.019948610137818262,yes
+81,1.0,0.9800513898621818,50.1288056206089,3,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",82,0.019948610137818262,yes
+83,1.0,0.9800513898621818,50.1288056206089,3,"[u'#bakeryfreshfriends', u'#granola']==>[u'#sunbeltbakery']",84,0.019948610137818262,yes
+105,1.0,0.9800513898621818,50.1288056206089,3,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",106,0.019948610137818262,yes
+107,1.0,0.9800513898621818,50.1288056206089,3,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#sunbeltbakery']",108,0.019948610137818262,yes
+121,1.0,0.9800513898621818,50.1288056206089,3,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",122,0.019948610137818262,yes
+125,1.0,0.9800513898621818,50.1288056206089,3,"[u'#bakeryfreshfriends', u'#contest']==>[u'#sunbeltbakery']",126,0.019948610137818262,yes
+132,1.0,0.9800513898621818,50.1288056206089,3,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",133,0.019948610137818262,yes
+133,1.0,0.9800513898621818,50.1288056206089,3,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#sunbeltbakery']",134,0.019948610137818262,yes
+152,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#granola']",153,0.019948610137818262,yes
+153,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#granola']==>[u'#bananabread', u'#sunbeltbakery']",154,0.019948610137818262,yes
+155,1.0,0.9800513898621818,50.1288056206089,4,"[u'#granola', u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",156,0.019948610137818262,yes
+156,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest']==>[u'#granola', u'#sunbeltbakery']",157,0.019948610137818262,yes
+157,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#sunbeltbakery']==>[u'#contest', u'#granola']",158,0.019948610137818262,yes
+162,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest', u'#granola']==>[u'#sunbeltbakery']",163,0.019948610137818262,yes
+178,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#recipe']",179,0.019948610137818262,yes
+181,1.0,0.9800513898621818,50.1288056206089,4,"[u'#recipe', u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",182,0.019948610137818262,yes
+182,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest']==>[u'#recipe', u'#sunbeltbakery']",183,0.019948610137818262,yes
+185,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest', u'#recipe']==>[u'#sunbeltbakery']",186,0.019948610137818262,yes
+189,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#contest', u'#granola', u'#recipe']",190,0.019948610137818262,yes
+193,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#granola']==>[u'#recipe', u'#sunbeltbakery']",194,0.019948610137818262,yes
+195,1.0,0.9800513898621818,50.1288056206089,4,"[u'#recipe', u'#sunbeltbakery']==>[u'#contest', u'#granola']",196,0.019948610137818262,yes
+201,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#granola', u'#recipe']==>[u'#sunbeltbakery']",202,0.019948610137818262,yes
+203,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola', u'#recipe']",204,0.019948610137818262,yes
+206,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#granola', u'#sunbeltbakery']",207,0.019948610137818262,yes
+207,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#granola']==>[u'#recipe', u'#sunbeltbakery']",208,0.019948610137818262,yes
+208,1.0,0.9800513898621818,50.1288056206089,4,"[u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",209,0.019948610137818262,yes
+209,1.0,0.9800513898621818,50.1288056206089,4,"[u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",210,0.019948610137818262,yes
+212,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#granola', u'#recipe']==>[u'#sunbeltbakery']",213,0.019948610137818262,yes
+218,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#granola']",219,0.019948610137818262,yes
+220,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#granola']==>[u'#bananabread', u'#sunbeltbakery']",221,0.019948610137818262,yes
+221,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#granola', u'#sunbeltbakery']",222,0.019948610137818262,yes
+222,1.0,0.9800513898621818,50.1288056206089,4,"[u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",223,0.019948610137818262,yes
+224,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",225,0.019948610137818262,yes
+228,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread', u'#granola']==>[u'#sunbeltbakery']",229,0.019948610137818262,yes
+246,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#bananabread']",247,0.019948610137818262,yes
+248,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#granola']==>[u'#bananabread', u'#contest']",249,0.019948610137818262,yes
+249,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#contest', u'#granola']",250,0.019948610137818262,yes
+250,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest']==>[u'#bakeryfreshfriends', u'#granola']",251,0.019948610137818262,yes
+259,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#contest']",260,0.019948610137818262,yes
+260,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",261,0.019948610137818262,yes
+261,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#contest']==>[u'#bananabread', u'#sunbeltbakery']",262,0.019948610137818262,yes
+262,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#contest', u'#sunbeltbakery']",263,0.019948610137818262,yes
+263,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest']==>[u'#bakeryfreshfriends', u'#sunbeltbakery']",264,0.019948610137818262,yes
+264,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",265,0.019948610137818262,yes
+265,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",266,0.019948610137818262,yes
+267,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread', u'#contest']==>[u'#sunbeltbakery']",268,0.019948610137818262,yes
+273,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#bananabread', u'#contest']",274,0.019948610137818262,yes
+277,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#contest']==>[u'#bakeryfreshfriends', u'#recipe']",278,0.019948610137818262,yes
+285,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']",286,0.019948610137818262,yes
+286,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#bananabread', u'#sunbeltbakery']",287,0.019948610137818262,yes
+288,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#recipe', u'#sunbeltbakery']",289,0.019948610137818262,yes
+289,1.0,0.9800513898621818,50.1288056206089,4,"[u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",290,0.019948610137818262,yes
+291,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bananabread', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",292,0.019948610137818262,yes
+292,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']==>[u'#sunbeltbakery']",293,0.019948610137818262,yes
+297,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#granola']",298,0.019948610137818262,yes
+300,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#sunbeltbakery']",301,0.019948610137818262,yes
+301,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#granola']==>[u'#contest', u'#sunbeltbakery']",302,0.019948610137818262,yes
+302,1.0,0.9800513898621818,50.1288056206089,4,"[u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",303,0.019948610137818262,yes
+303,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#sunbeltbakery']==>[u'#contest', u'#granola']",304,0.019948610137818262,yes
+304,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#contest']==>[u'#granola', u'#sunbeltbakery']",305,0.019948610137818262,yes
+305,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",306,0.019948610137818262,yes
+308,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#contest', u'#granola']==>[u'#sunbeltbakery']",309,0.019948610137818262,yes
+314,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#recipe']",315,0.019948610137818262,yes
+315,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#contest', u'#granola']",316,0.019948610137818262,yes
+324,1.0,0.9800513898621818,50.1288056206089,4,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#recipe']",325,0.019948610137818262,yes
+326,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#contest', u'#sunbeltbakery']",327,0.019948610137818262,yes
+328,1.0,0.9800513898621818,50.1288056206089,4,"[u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",329,0.019948610137818262,yes
+330,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#contest']==>[u'#recipe', u'#sunbeltbakery']",331,0.019948610137818262,yes
+331,1.0,0.9800513898621818,50.1288056206089,4,"[u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",332,0.019948610137818262,yes
+335,1.0,0.9800513898621818,50.1288056206089,4,"[u'#bakeryfreshfriends', u'#contest', u'#recipe']==>[u'#sunbeltbakery']",336,0.019948610137818262,yes
+339,1.0,0.9800513898621818,50.1288056206089,5,"[u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#granola', u'#recipe']",340,0.019948610137818262,yes
+341,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola']==>[u'#bananabread', u'#recipe', u'#sunbeltbakery']",342,0.019948610137818262,yes
+345,1.0,0.9800513898621818,50.1288056206089,5,"[u'#recipe', u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#granola']",346,0.019948610137818262,yes
+346,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#recipe']",347,0.019948610137818262,yes
+347,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest']==>[u'#granola', u'#recipe', u'#sunbeltbakery']",348,0.019948610137818262,yes
+348,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#sunbeltbakery']==>[u'#contest', u'#granola', u'#recipe']",349,0.019948610137818262,yes
+350,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#recipe', u'#sunbeltbakery']==>[u'#contest', u'#granola']",351,0.019948610137818262,yes
+351,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#recipe', u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",352,0.019948610137818262,yes
+353,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#recipe']==>[u'#granola', u'#sunbeltbakery']",354,0.019948610137818262,yes
+355,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#granola']==>[u'#recipe', u'#sunbeltbakery']",356,0.019948610137818262,yes
+359,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola', u'#recipe']==>[u'#bananabread', u'#sunbeltbakery']",360,0.019948610137818262,yes
+364,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#granola', u'#recipe']==>[u'#sunbeltbakery']",365,0.019948610137818262,yes
+368,1.0,0.9800513898621818,50.1288056206089,5,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#granola', u'#recipe']",369,0.019948610137818262,yes
+370,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#bananabread', u'#granola', u'#sunbeltbakery']",371,0.019948610137818262,yes
+372,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#granola', u'#recipe', u'#sunbeltbakery']",373,0.019948610137818262,yes
+374,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola']==>[u'#bananabread', u'#recipe', u'#sunbeltbakery']",375,0.019948610137818262,yes
+375,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']",376,0.019948610137818262,yes
+377,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola', u'#recipe']",378,0.019948610137818262,yes
+378,1.0,0.9800513898621818,50.1288056206089,5,"[u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#granola']",379,0.019948610137818262,yes
+379,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",380,0.019948610137818262,yes
+381,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",382,0.019948610137818262,yes
+382,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola', u'#recipe']==>[u'#bananabread', u'#sunbeltbakery']",383,0.019948610137818262,yes
+383,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']==>[u'#granola', u'#sunbeltbakery']",384,0.019948610137818262,yes
+385,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#granola']==>[u'#recipe', u'#sunbeltbakery']",386,0.019948610137818262,yes
+388,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",389,0.019948610137818262,yes
+393,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#granola', u'#recipe']==>[u'#sunbeltbakery']",394,0.019948610137818262,yes
+398,1.0,0.9800513898621818,50.1288056206089,5,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#contest', u'#granola']",399,0.019948610137818262,yes
+399,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#bananabread', u'#sunbeltbakery']",400,0.019948610137818262,yes
+401,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola']==>[u'#bananabread', u'#contest', u'#sunbeltbakery']",402,0.019948610137818262,yes
+402,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#granola']",403,0.019948610137818262,yes
+403,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#granola']",404,0.019948610137818262,yes
+404,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#contest', u'#granola', u'#sunbeltbakery']",405,0.019948610137818262,yes
+405,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest']==>[u'#bakeryfreshfriends', u'#granola', u'#sunbeltbakery']",406,0.019948610137818262,yes
+406,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest']==>[u'#bananabread', u'#granola', u'#sunbeltbakery']",407,0.019948610137818262,yes
+407,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#granola']",408,0.019948610137818262,yes
+408,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#contest']",409,0.019948610137818262,yes
+410,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",411,0.019948610137818262,yes
+411,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola', u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",412,0.019948610137818262,yes
+412,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#contest']==>[u'#granola', u'#sunbeltbakery']",413,0.019948610137818262,yes
+413,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#sunbeltbakery']==>[u'#contest', u'#granola']",414,0.019948610137818262,yes
+414,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#granola']==>[u'#contest', u'#sunbeltbakery']",415,0.019948610137818262,yes
+415,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",416,0.019948610137818262,yes
+416,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",417,0.019948610137818262,yes
+417,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#sunbeltbakery']",418,0.019948610137818262,yes
+418,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest', u'#granola']==>[u'#bananabread', u'#sunbeltbakery']",419,0.019948610137818262,yes
+419,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#contest', u'#granola']==>[u'#sunbeltbakery']",420,0.019948610137818262,yes
+429,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']",430,0.019948610137818262,yes
+430,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#bananabread', u'#contest', u'#granola']",431,0.019948610137818262,yes
+431,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola']==>[u'#bananabread', u'#contest', u'#recipe']",432,0.019948610137818262,yes
+432,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#contest', u'#granola', u'#recipe']",433,0.019948610137818262,yes
+436,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest']==>[u'#bakeryfreshfriends', u'#granola', u'#recipe']",437,0.019948610137818262,yes
+438,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola', u'#recipe']==>[u'#bananabread', u'#contest']",439,0.019948610137818262,yes
+440,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#recipe']==>[u'#bakeryfreshfriends', u'#granola']",441,0.019948610137818262,yes
+443,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']==>[u'#contest', u'#granola']",444,0.019948610137818262,yes
+444,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#recipe']",445,0.019948610137818262,yes
+447,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola', u'#recipe']==>[u'#bakeryfreshfriends', u'#bananabread']",448,0.019948610137818262,yes
+456,1.0,0.9800513898621818,50.1288056206089,5,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#contest', u'#recipe']",457,0.019948610137818262,yes
+457,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#bananabread', u'#contest', u'#sunbeltbakery']",458,0.019948610137818262,yes
+459,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#sunbeltbakery']==>[u'#bananabread', u'#contest', u'#recipe']",460,0.019948610137818262,yes
+460,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#recipe']",461,0.019948610137818262,yes
+462,1.0,0.9800513898621818,50.1288056206089,5,"[u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#contest']",463,0.019948610137818262,yes
+463,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread']==>[u'#contest', u'#recipe', u'#sunbeltbakery']",464,0.019948610137818262,yes
+464,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest']==>[u'#bakeryfreshfriends', u'#recipe', u'#sunbeltbakery']",465,0.019948610137818262,yes
+465,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest']==>[u'#bananabread', u'#recipe', u'#sunbeltbakery']",466,0.019948610137818262,yes
+466,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']",467,0.019948610137818262,yes
+468,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#recipe']==>[u'#bakeryfreshfriends', u'#sunbeltbakery']",469,0.019948610137818262,yes
+469,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",470,0.019948610137818262,yes
+470,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#contest']==>[u'#recipe', u'#sunbeltbakery']",471,0.019948610137818262,yes
+471,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#bananabread']",472,0.019948610137818262,yes
+472,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#recipe']==>[u'#contest', u'#sunbeltbakery']",473,0.019948610137818262,yes
+474,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#recipe', u'#sunbeltbakery']==>[u'#bananabread', u'#contest']",475,0.019948610137818262,yes
+475,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bananabread', u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",476,0.019948610137818262,yes
+476,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest', u'#recipe']==>[u'#bananabread', u'#sunbeltbakery']",477,0.019948610137818262,yes
+478,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#bananabread', u'#contest', u'#recipe']==>[u'#sunbeltbakery']",479,0.019948610137818262,yes
+483,1.0,0.9800513898621818,50.1288056206089,5,"[u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#granola', u'#recipe']",484,0.019948610137818262,yes
+487,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola']==>[u'#bakeryfreshfriends', u'#recipe', u'#sunbeltbakery']",488,0.019948610137818262,yes
+488,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#recipe']==>[u'#contest', u'#granola', u'#sunbeltbakery']",489,0.019948610137818262,yes
+489,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola']==>[u'#contest', u'#recipe', u'#sunbeltbakery']",490,0.019948610137818262,yes
+491,1.0,0.9800513898621818,50.1288056206089,5,"[u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#granola']",492,0.019948610137818262,yes
+492,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest', u'#recipe']",493,0.019948610137818262,yes
+493,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#sunbeltbakery']==>[u'#contest', u'#granola', u'#recipe']",494,0.019948610137818262,yes
+494,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest']==>[u'#granola', u'#recipe', u'#sunbeltbakery']",495,0.019948610137818262,yes
+495,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola', u'#recipe']",496,0.019948610137818262,yes
+498,1.0,0.9800513898621818,50.1288056206089,5,"[u'#granola', u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#contest']",499,0.019948610137818262,yes
+499,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#granola', u'#recipe']==>[u'#contest', u'#sunbeltbakery']",500,0.019948610137818262,yes
+500,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#recipe', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#granola']",501,0.019948610137818262,yes
+501,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#recipe', u'#sunbeltbakery']==>[u'#contest', u'#granola']",502,0.019948610137818262,yes
+502,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola', u'#sunbeltbakery']==>[u'#bakeryfreshfriends', u'#recipe']",503,0.019948610137818262,yes
+503,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest', u'#granola']==>[u'#recipe', u'#sunbeltbakery']",504,0.019948610137818262,yes
+504,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest', u'#recipe']==>[u'#granola', u'#sunbeltbakery']",505,0.019948610137818262,yes
+505,1.0,0.9800513898621818,50.1288056206089,5,"[u'#contest', u'#granola', u'#recipe']==>[u'#bakeryfreshfriends', u'#sunbeltbakery']",506,0.019948610137818262,yes
+506,1.0,0.9800513898621818,50.1288056206089,5,"[u'#bakeryfreshfriends', u'#contest', u'#granola', u'#recipe']==>[u'#sunbeltbakery']",507,0.019948610137818262,yes
